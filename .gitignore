@@ -1,3 +1,6 @@
+*.zwc
+*.old
+
 # custom files
 custom/
 
